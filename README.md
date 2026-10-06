@@ -1,0 +1,2 @@
+# Travel_Master_Prices
+名古屋機票與飯店的公開價格觀測頁
